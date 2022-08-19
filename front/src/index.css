@@ -1,0 +1,17 @@
+  
+body {
+  background:
+  linear-gradient(
+    rgba(0, 0, 0, 0.3), 
+    rgba(0, 0, 0, 0.3)
+  ),
+  url("https://cdn.pixabay.com/photo/2021/09/07/10/14/animal-6603517_1280.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
